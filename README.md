@@ -6,11 +6,7 @@ An android application which displays current news articles from a wide variety 
 
 Below are the screenshots while installing the News Gateway application.
 
-![Install](images/install1.jpg)
-
-![Install](images/install2.jpg)
-
-![Install](images/install3.jpg)
+![Install](images/install1.jpg) ![Install](images/install2.jpg) ![Install](images/install3.jpg)
 
 
 ## 2) App Icon
@@ -30,16 +26,10 @@ Option to choose account for google sign in.
 
 ![Login](images/invalidlogin.jpg)
 
-## 5) Invalid attempt 1
+## 5) Invalid login attempts
 
 ![Login](images/attempt1.jpg)
-
-## 6) Invalid attempt 2
-
 ![Login](images/attempt2.jpg)
-
-## 7) Invalid attempt 3
-
 ![Login](images/attemt3.jpg)
 
 ## 8) Homepage
@@ -59,7 +49,6 @@ Home page after successful login.
 ## 7) News Articles
 
 ![Article](images/article1.jpg)
-
 ![Article](images/article2.jpg)
 
 ## 8) Option to change news source
