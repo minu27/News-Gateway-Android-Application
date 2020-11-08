@@ -6,64 +6,64 @@ An android application which displays current news articles from a wide variety 
 
 Below are the screenshots while installing the News Gateway application.
 
-![Install](images/install1.jpeg)
+![Install](images/install1.jpg)
 
-![Install](images/install2.jpeg)
+![Install](images/install2.jpg)
 
-![Install](images/install3.jpeg)
+![Install](images/install3.jpg)
 
 
 ## 2) App Icon
 
 On installing the app, its icon is shown as set.
 
-![Icon](images/icon.png)
+![Icon](images/icon.PNG)
 
 
 ## 3) Login Page through google sign in
 
 Option to choose account for google sign in.
 
-![Login](images/login1.jpeg)
+![Login](images/login1.jpg)
 
 ## 4) Invalid Login
 
-![Login](images/invalidlogin.jpeg)
+![Login](images/invalidlogin.jpg)
 
 ## 5) Invalid attempt 1
 
-![Login](images/attempt1.jpeg)
+![Login](images/attempt1.jpg)
 
 ## 6) Invalid attempt 2
 
-![Login](images/attempt2.jpeg)
+![Login](images/attempt2.jpg)
 
 ## 7) Invalid attempt 3
 
-![Login](images/attemt3.jpeg)
+![Login](images/attemt3.jpg)
 
 ## 8) Homepage
 
 Home page after successful login.
 
-![Homepage](images/homepage.jpeg)
+![Homepage](images/homepage.jpg)
 
 ## 5) News Category
 
-![Category](images/newscategory.jpeg)
+![Category](images/newscategory.jpg)
 
 ## 6) News Source
 
-![Source](images/newssource.jpeg)
+![Source](images/newssource.jpg)
 
 ## 7) News Articles
 
-![Article](images/article1.jpeg)
+![Article](images/article1.jpg)
 
-![Article](images/article2.jpeg)
+![Article](images/article2.jpg)
 
 ## 8) Option to change news source
 
-![Option](images/options.jpeg)
+![Option](images/options.jpg)
 
 
