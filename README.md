@@ -30,7 +30,7 @@ Option to choose account for google sign in.
 
 ![Login](images/attempt1.jpg)
 ![Login](images/attempt2.jpg)
-![Login](images/attemt3.jpg)
+![Login](images/attempt3.jpg)
 
 ## 8) Homepage
 
