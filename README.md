@@ -58,7 +58,7 @@ Home page after successful login.
 
 ## 7) News Articles
 
-![Article](images/article1.jpeg)
+![Article](images/article1.jpg)
 
 ![Article](images/article2.jpeg)
 
