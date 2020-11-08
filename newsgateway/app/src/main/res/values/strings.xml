@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="drawer_close">close drawer</string>
+    <string name="drawer_open">open drawer</string>
+
+    <string name="password_name">Enter Password</string>
+    <string name="login_name">login</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="username_field">Enter Username</string>
+    <string name="login_screen_name">News Gateway Login</string>
+    <string name="attempts_Left">No. of Attempts left: 3</string>
+    <string name="remember_me_check">Remember Me</string>
+</resources>
